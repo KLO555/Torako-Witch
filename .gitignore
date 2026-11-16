@@ -1,0 +1,5 @@
+# Keep source/reference materials out of the public GitHub repository.
+/references/
+Thumbs.db
+.DS_Store
+
